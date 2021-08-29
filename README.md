@@ -1,4 +1,4 @@
-# guide-page
+# lead-page
 guide page that guide users from the old URL to the new URL.
 ![Screencut](https://user-images.githubusercontent.com/44722363/129698194-9d0cf66e-9960-41ee-baf1-8dafa5afd505.png)
 ## Origin
