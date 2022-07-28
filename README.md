@@ -1,6 +1,7 @@
 # lead-page
 A guide page that guide users from the old URL to the new URL.
-![Screencut](https://user-images.githubusercontent.com/44722363/129698194-9d0cf66e-9960-41ee-baf1-8dafa5afd505.png)
+
+![Screencut](https://user-images.githubusercontent.com/44722363/181429424-4677e7b5-9420-4d4d-a31e-835eaf7ac9b6.png)
 
 
 ## Origin
