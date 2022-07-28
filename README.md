@@ -3,6 +3,8 @@ A guide page that guide users from the old URL to the new URL.
 
 ![Screencut](https://user-images.githubusercontent.com/44722363/181429424-4677e7b5-9420-4d4d-a31e-835eaf7ac9b6.png)
 
+Demo: https://old.projectoms.com/
+
 
 ## Origin
 This page is firstly created by Google Mainland China Branch in 2011 due to Chinese goveronment asked them to stop services. From then on, this page become a 'industry standard' in chinese IT circle on creating leading pages in order to commemorate Google.
