@@ -13,6 +13,6 @@ But due to it was written in 2011, this page has lots of bugs and Google wont fi
 
 
 ## Copyright year problem
-Many have contact me that now is 2022, not 2011, but, I have considered this copyright year issue and I believe keep as it is can be a pay tribute to Google Mainland China Branch.
+Many have contact me that now is 2023, not 2011, but, I have considered this copyright year issue and I believe keep as it is can be a pay tribute to Google Mainland China Branch.
 
 If you want to change it, just change it.
